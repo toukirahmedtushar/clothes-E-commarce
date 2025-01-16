@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "tailwindcss": "^3.3.1"
+  },
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  },
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./src/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
