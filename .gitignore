@@ -1,3 +1,7 @@
-
+.json
 node_modules
 dist
+build
+.env
+config.js
+.vscode
