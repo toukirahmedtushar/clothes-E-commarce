@@ -10,7 +10,8 @@
     "tailwindcss": "^3.4.13"
   },
   "scripts": {
-    "build": "tailwindcss -i ./input.css -o ./src/style.css -w"
+    "build1": "tailwindcss -i ./input.css -o ./src/style.css -w",
+    "build": "vite build"
   },
   "author": "",
   "license": "ISC",
